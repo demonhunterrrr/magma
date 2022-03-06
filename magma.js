@@ -111,5 +111,3 @@ function makeElements() {
       }
     }
 }
-makeElements();
-void(0);
